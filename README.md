@@ -16,6 +16,7 @@ This is a Walkthrough I did of a ISSchat website using Flask, Socketio, Angularj
 ###Findings
 
 - You see that all the requests are on the left
+- 
 - On the right is what it looks like in the browser
 
 ![Flask_socketio](./images/Flask_Socketio.png)

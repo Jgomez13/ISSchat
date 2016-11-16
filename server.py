@@ -26,7 +26,7 @@ def makeConnection():
 
 @socketio.on('identify', namespace='/iss')
 def on_identify(message):
-	# takes care of the name being passed in at Name:
+	# takes care of the name being passed in at Name: ng-change='setName()'
 	print('identify '+ message)
 	users[session['uuid']] = {'useraname': message}
 
