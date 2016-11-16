@@ -32,7 +32,7 @@ def on_identify(message):
 
 @app.route('/')
 def mainIndex():
-    print('in hello worl d')
+    print('in hello world')
     return app.send_static_file('index.html')
     
 

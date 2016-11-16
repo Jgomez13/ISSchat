@@ -9,6 +9,7 @@ ISSChatApp.controller('ChatController', function($scope){
 	$scope.messages= [];
 	$scope.name = '';
 	$scope.text = '';
+
 	$scope.setName = function setName(){
 		socket.emit('identify', $scope.name)
 	};
