@@ -7,7 +7,9 @@ This is a Walkthrough I did of a ISSchat website using Flask, Socketio, Angularj
 1. Unzip file
 2. cd into ISSchat
 3. run this
-   ``` user@computer:~/ISSchat$ python server.py```
+   ```bash
+   user@computer:~/ISSchat$ python server.py
+   ```
 
 ---
 

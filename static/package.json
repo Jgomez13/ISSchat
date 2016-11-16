@@ -1,0 +1,17 @@
+{
+  "name": "static",
+  "version": "1.0.0",
+  "description": "something",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "socket.io": "^1.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"whaddup\""
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": "something"
+}
